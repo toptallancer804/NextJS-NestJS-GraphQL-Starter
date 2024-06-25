@@ -11,6 +11,6 @@ function ChatPage() {
       <ChatContainer />
     </App>
   );
-}
+} 
 
 export default withApolloWithSubscriptions(ChatPage);
